@@ -1,3 +1,0 @@
-ifconfig eth0 200.1.1.7/24
-
-ip route add default via 200.1.1.1

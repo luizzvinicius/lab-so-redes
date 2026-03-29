@@ -1,0 +1,4 @@
+ip link set eth0 up
+
+# Solicita IP via DHCP
+dhclient eth0
